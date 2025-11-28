@@ -1,0 +1,73 @@
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe.config
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.pdb
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.xml
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbprojResolveAssemblyReference.cache
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.frmMain.resources
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.FrmSelect.resources
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.Resources.resources
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.GenerateResource.Cache
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.CoreCompileInputs.cache
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.exe
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.xml
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.pdb
+C:\Users\L Edward Kane\source\repos\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.ResolveComReference.cache
+F:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe.config
+F:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe
+F:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.pdb
+F:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.xml
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbprojResolveAssemblyReference.cache
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.ResolveComReference.cache
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.frmMain.resources
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.FrmSelect.resources
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.Resources.resources
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.GenerateResource.Cache
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.CoreCompileInputs.cache
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.exe
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.xml
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.pdb
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.ACTIVEXLib.dll
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTE100.dll
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties100.dll
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties110.dll
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties120.dll
+D:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe.config
+D:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe
+D:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.pdb
+D:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.xml
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbprojResolveAssemblyReference.cache
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.ACTIVEXLib.dll
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTE100.dll
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties100.dll
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties110.dll
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties120.dll
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.ResolveComReference.cache
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.frmMain.resources
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.FrmSelect.resources
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.Resources.resources
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.GenerateResource.Cache
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.CoreCompileInputs.cache
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.exe
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.xml
+D:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.pdb
+F:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.Microsoft.Office.Interop.Access.Dao.dll
+G:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe.config
+G:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.exe
+G:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.pdb
+G:\StprMtrDegControl\StprMtrDegControl\bin\Debug\StprMtrDegControl.xml
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbprojResolveAssemblyReference.cache
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.ACTIVEXLib.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTE100.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties100.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties110.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.EnvDTEProperties120.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\Interop.Microsoft.Office.Interop.Access.Dao.dll
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.ResolveComReference.cache
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.frmMain.resources
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.FrmSelect.resources
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.Resources.resources
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.GenerateResource.Cache
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.vbproj.CoreCompileInputs.cache
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.exe
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.xml
+G:\StprMtrDegControl\StprMtrDegControl\obj\Debug\StprMtrDegControl.pdb
